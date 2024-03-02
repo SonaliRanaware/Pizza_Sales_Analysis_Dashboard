@@ -1,6 +1,7 @@
 # Pizza_Sales_Analysis_Dashboard
 
 This is a Pizza Sales Analysis Dashboard project, where we leverage SQL for data analysis and Power BI for creating interactive visualizations. This project provides in-depth insights into pizza sales data, including daily and monthly trends, sales by pizza category and size, and identifying top-selling and least_selling pizzas based on revenue, quantity, and total orders.
+
 ![PizzaSalesDashboard1](https://github.com/Sushma1134/Pizza_Sales_Analysis_Dashboard/assets/153356425/7b755638-d6c1-481f-aca0-6043742c008a)
 ![PizzaSalesDashboard2](https://github.com/Sushma1134/Pizza_Sales_Analysis_Dashboard/assets/153356425/8acfb60c-877d-4dd1-bbf7-fb85089bb7d3)
 
