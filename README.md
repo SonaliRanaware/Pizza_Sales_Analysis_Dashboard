@@ -50,7 +50,7 @@ In the initial data preparation phase, we have to perform the following tasks:
 11. **Top 5 Best Sellers by Revenue, Total Quantity & Total Orders**: Top 5 Best selling Pizza by Revenue, Total Quantity & Total Orders.
 12. **Bottom 5  Sellers by Revenue, Total Quantity & Total Orders**: Bottom 5 selling Pizzas by Revenue, Total Quantity & Total Orders.
 
-### Data Analysis
+### Data Analysis @
  
  Data Analysis is done by connecting data from "pizza_sales.csv" to the SQL server and Getting the analytical results, and created PowerBI dashboard of pizza sales and validated both results.
 
